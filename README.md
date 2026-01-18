@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**arvndms/arvndms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a **Data Science student** actively **looking for opportunities** to apply my skills and grow in real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- SQL
+- Tableau
+
+---
+
+## 📫 Open to Opportunities
+I am open to **internships, entry-level roles, and project collaborations** in Data Science.
