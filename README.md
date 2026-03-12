@@ -12,4 +12,4 @@
 ---
 
 ## 📫 Open to Opportunities
-I am open to **internships, entry-level roles  in Data Science.
+I am open to **internships**, **entry-level roles**  in Data Science.
